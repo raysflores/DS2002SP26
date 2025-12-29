@@ -1,4 +1,4 @@
-# Course Workflow (Instructor/TA Notes)
+# Course Workflow (My+TA Notes)
 
 - Kaggle is the execution environment.
 - GitHub is the artifact + versioning layer.
